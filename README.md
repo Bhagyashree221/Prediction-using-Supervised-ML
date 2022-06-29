@@ -3,6 +3,7 @@ Objective- The main objective of this task is to predict the percentage and scor
 
 Workflow-  
 -Importing the required libraries.  
--Visualizing the Dataset.  -Training the Algorithm.  
+-Visualizing the Dataset.  
+-Training the Algorithm.  
 -Visualization the Model and Making Prediction. 
 -Evaluating the Model and Predicting the score based on hours studied.
