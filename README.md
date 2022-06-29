@@ -6,5 +6,4 @@ Workflow-
 -Visualizing the Dataset.  
 -Training the Algorithm.  
 -Visualization the Model and Making Prediction.
-
 -Evaluating the Model and Predicting the score based on hours studied.
